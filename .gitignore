@@ -1,0 +1,32 @@
+# Build output
+/target/
+
+# Rust's dependency directory
+/Cargo.lock
+
+# Build artifacts for release
+/release/
+
+# Temporary files created by editor/IDE
+.idea/
+/.vscode/
+/*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment-specific files
+.env
+
+# Documentation and coverage output
+/coverage/
+
+# Cargo's cache directory
+/.cargo/
+
+# Rustup toolchain files
+/toolchains/
+
+# rustfmt configuration files
+rustfmt.toml
