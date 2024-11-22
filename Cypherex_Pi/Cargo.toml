@@ -1,0 +1,10 @@
+[package]
+name = "Cypherex_Pi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[target.armv7a-none-eabi]
+runner = "ruspiro-push"
