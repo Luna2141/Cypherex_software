@@ -1,4 +1,4 @@
-**Cypherex**
+Cypherex
 
 A secure, decentralized, and offline-first password manager built on the Polkadot network. This open-source project enables users to manage passwords securely by leveraging blockchain technology, designed for use with Raspberry Pi Zero boards or USB drives.
 ----------
