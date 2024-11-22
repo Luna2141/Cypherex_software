@@ -23,7 +23,7 @@ A Raspberry Pi Zero board or a USB thumb drive.
 Rust development environment installed.
 Install Rust: `https://www.rust-lang.org/tools/install`
 ----------
-*Steps for Raspberry Pi Zero*
+**Steps for Raspberry Pi Zero**
 ----------
 Clone the repository to your Raspberry Pi:
 bash
@@ -35,7 +35,7 @@ Build the project:
 Run the application:
 `./target/release/crypto-password-manager`
 ----------
-*Steps for USB Thumb Drive*
+**Steps for USB Thumb Drive**
 Clone the repository on your computer:
 `git clone https://github.com/your-username/crypto-password-manager.git`
 Compile the project for your target device:
