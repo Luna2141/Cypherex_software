@@ -1,0 +1,1 @@
+ring::aead::SealingKey<fn(ring::aead::UnboundKey) -> ring::aead::LessSafeKey {ring::aead::LessSafeKey::new}>

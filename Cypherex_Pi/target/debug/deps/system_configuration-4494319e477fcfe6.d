@@ -1,0 +1,9 @@
+/Users/luna/work/cypherex/Cypherex_software/Cypherex_Pi/target/debug/deps/libsystem_configuration-4494319e477fcfe6.rmeta: /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/luna/work/cypherex/Cypherex_software/Cypherex_Pi/target/debug/deps/system_configuration-4494319e477fcfe6.d: /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs:
+/Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs:
+/Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs:
+/Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs:
+/Users/luna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs:
